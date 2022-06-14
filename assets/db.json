@@ -1,4 +1,4 @@
-[
+{ "luchadores":[
     {
         "id":1,
         "name" : "Goku",
@@ -54,3 +54,4 @@
         "avatar" : "https://vignette.wikia.nocookie.net/dragonball/images/8/84/Piccolo_DBZ_Ep_148_001v2.png/revision/latest/scale-to-width-down/180?cb=20170924030621"
     }
 ]
+}
