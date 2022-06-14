@@ -16,3 +16,5 @@ json-server -w -p 5000 assets/db.json
 Esto hara que inicialice el servidor en el puerto 5000 del local escuchando la 'base de datos' suministrada
 
 Finalmente es necesario levantar otro servidor para el cliente que va a consumir la api, por lo que se recomienda ejecutar el archivo index.html con Live Server, una extensión de VS code
+
+#VIDEO SUSTENTACION: https://youtu.be/TxvkpwKCUrI
