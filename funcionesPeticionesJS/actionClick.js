@@ -16,7 +16,7 @@ export const actionClick = async (e) => {
   if (e.target.matches("#edit")) {
     const $form = d.querySelector(".crud-form"),
       $title = d.querySelector(".crud-title");
-    $title.textContent = "Editar Santo";
+    $title.textContent = "Editar Luchador";
     $form.nombre.value = e.target.dataset.name;
     $form.descripcion.value = e.target.dataset.description;
     $form.id.value = e.target.dataset.id;
