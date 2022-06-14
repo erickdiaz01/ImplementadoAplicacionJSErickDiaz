@@ -1,0 +1,32 @@
+h1{
+    margin: 5px 10px;
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding: 2px;
+    padding-top: 10px;
+    background-color: rgb(255, 199, 95);
+}
+input{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+textarea{
+    margin-top: 5px;
+}
+.crud{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+article.crud{
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 3px solid rgb(230, 177, 79);
+}
+.crud-table{
+    margin: 20px;
+padding: 20px;
+
+}
